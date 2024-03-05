@@ -12,5 +12,4 @@ basic consle ui.
 
 Email me with any problems ryanportel224@gmail.com
 
-
-[![OpenSSF Scorecard](htt‌ps://api.securityscorecards.dev/projects/github.com/TrueGamer1224/storeInv/badge)](htt‌ps://securityscorecards.dev/viewer/?uri=github.com/TrueGamer1224/storeInv)
+[![OpenSSF Best Practices](https://www.bestpractices.dev/projects/8617/badge)](https://www.bestpractices.dev/projects/8617)
