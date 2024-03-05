@@ -1,4 +1,5 @@
 # storeInv
+Problem: Effect way to store and manage objects
 Allows for the creation and storage of various objects
 
 
